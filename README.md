@@ -12,9 +12,15 @@ Notes: This Program is created using Visual Studio 2015 Community, and tested in
 The Program is using CLR (Common Language Runtime), so it needs .NET Framework in the computer to run the program
 
 
-About
+
+About:
+
 22/02/2016
+
 Created by Johan - 13514026, Kharis Isriyanto - 13514064, Kevin Supendi - 13514094
+
 Informatics / Computer Science
+
 School of Electrical Engineering and Informatics
+
 Bandung Institute of Technology
